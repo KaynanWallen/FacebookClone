@@ -21,7 +21,7 @@ import love from '../assets/Emojis/love.png'
 import like from '../assets/Emojis/like.png'
 
 import Comment from '../assets/Main/Comment.svg'
-import Compartilhar from '../assets/Main/comp.svg'
+//import Compartilhar from '../assets/Main/comp.svg'
 
 function Main() {
   return (
@@ -230,7 +230,7 @@ function Main() {
 
               <div className='flex flex-row gap-1 h-[20px] items-center'>
                 <p className='font-semibold'>30</p>
-                <img src={Compartilhar} className='w-[20px] h-[20px]'/>
+                <img src={Comment} className='w-[20px] h-[20px]'/>
               </div>
             </div>
           </div>
@@ -247,7 +247,7 @@ function Main() {
             </section>
 
             <section className='flex flex-row items-center gap-2'>
-              <img src={Compartilhar} className='w-[25px] h-[25px]'/>
+              <img src={Comment} className='w-[25px] h-[25px]'/>
               <p className='font-semibold'>Compartilhar</p>
             </section>
 
