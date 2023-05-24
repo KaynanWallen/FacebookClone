@@ -20,7 +20,7 @@ import Fotos from '../assets/Main/Fotos.svg'
 import love from '../assets/Emojis/love.png'
 import like from '../assets/Emojis/like.png'
 
-import Comment from '../assets/Main/comment.svg'
+import Comment from '../assets/Main/Comment.svg'
 import Compartilhar from '../assets/Main/compartilhar.svg'
 
 function Main() {
