@@ -21,7 +21,7 @@ import love from '../assets/Emojis/love.png'
 import like from '../assets/Emojis/like.png'
 
 import Comment from '../assets/Main/Comment.svg'
-import Compartilhar from '../assets/Main/compartilhar.svg'
+import Compartilhar from '../assets/Main/comp.svg'
 
 function Main() {
   return (
