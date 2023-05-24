@@ -8,6 +8,22 @@
   color: #fff;
 }
 
+::-webkit-scrollbar {
+  width: 5px; 
+  height: 5px;              /* width of the entire scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;        /* color of the tracking area */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3E4042;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */ /* creates padding around scroll thumb */
+}
+
+
+
 html, body {
   background-color: #18191A;
   width: 100vw;
@@ -31,4 +47,35 @@ main {
   .CENTRO {
     display: none;
   }
+}
+
+.Stories > section {
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+#Post1 {
+  background-image: url(./assets/Main/Post1.png);
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+#Stories1 {
+    background-image: url(./assets/Main/Stories-1.png);
+}
+
+#Stories2 {
+  background-image: url(./assets/Main/Stories-2.png);
+}
+
+#Stories3 {
+  background-image: url(./assets/Main/Stories-3.png);
+}
+
+#Stories4 {
+  background-image: url(./assets/Main/Stories-1.png);
+}
+
+#Stories5 {
+  background-image: url(./assets/Main/Stories-2.png);
 }
