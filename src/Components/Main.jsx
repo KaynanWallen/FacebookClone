@@ -11,7 +11,7 @@ import Perfume from '../assets/Main/Perfume.png'
 import Sandalias from '../assets/Main/Sandalias.png'
 
 import Stories from '../assets/Main/Stories.svg'
-import Reel from '../assets/Main/Reel.svg'
+import Reel from '../assets/Main/reel.svg'
 
 import VideoCamera from '../assets/Main/VideoCamera.svg'
 import Smile from '../assets/Main/Smile.svg'
